@@ -7,6 +7,18 @@
   "installed": {
     "angular2/angular2.d.ts": {
       "commit": "a6d979c0d0c210399bef224a451b13bcd62317a2"
+    },
+    "rx/rx.d.ts": {
+      "commit": "fa8d9683f37d07ed79617a6e037916c6718aeb11"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "fa8d9683f37d07ed79617a6e037916c6718aeb11"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "fa8d9683f37d07ed79617a6e037916c6718aeb11"
+    },
+    "firebase/firebase.d.ts": {
+      "commit": "fa8d9683f37d07ed79617a6e037916c6718aeb11"
     }
   }
 }
